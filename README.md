@@ -4,7 +4,7 @@
 This collection is designed to cover instance segmenetation task in 
 [**Supervisely**](https://supervise.ly/) and has two main purposes:
 1. Demonstrate apps that can be useful for training instance segmentation models
-2. Provide UNet train / serve apps that can be used as a templates for integration of custom segmentation neural network 
+2. Provide Detectron2 Train / Serve apps that can be used as a templates for integration of custom segmentation neural network 
 
 Before using these apps 
 we recommend to try end-to-end working demo - data and explanations are provided, get more details from apps readmes 
