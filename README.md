@@ -123,10 +123,6 @@ classes: lemons and kiwis
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-coco" src="https://imgur.com/OxqtYTS.png" width="350px"/>  
 
-- [Export as masks](https://ecosystem.supervise.ly/apps/export-as-masks)
-
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-as-masks" src="https://i.imgur.com/NcI3tTs.png" width="350px"/>
-
 ### Processing
 
 - [Convert class shape](https://ecosystem.supervise.ly/apps/convert-class-shape)
