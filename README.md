@@ -59,6 +59,29 @@ To learn more about how to use every app, please go to app's readme page (links 
 
 Collection consists of the following apps (find more apps in Ecosystem): 
 
+## Detectron2 apps
+
+- [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
+  
+  
+-  [Serve Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
+   
+
+## Integration into labeling tool
+
+- [Apply NN to images project ](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fproject-dataset) - app allows to play with different inference options and visualize predictions in real time.  Once you choose inference settings you can apply model to all images in your project to visually analyse predictions and perform automatic data pre-labeling.   
+   
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/project-dataset" src="https://i.imgur.com/M2Tp8lE.png" width="350px"/> 
+
+- [NN Image Labeling](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fannotation-tool) - integrate any deployd NN to Supervisely Image Labeling UI. Configure inference settings and model output classes. Press `Apply` button (or use hotkey) and detections with their confidences will immediately appear on the image. 
+   
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/annotation-tool" src="https://i.imgur.com/hYEucNt.png" width="350px"/>
+  
+
 ## Demo data and synthetic data
 
 - [Lemons Annotated](https://ecosystem.supervise.ly/projects/lemons-annotated) - 6 images with two labeled
@@ -123,28 +146,7 @@ classes: lemons and kiwis
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/imgaug-studio" src="https://i.imgur.com/l9kNWs9.png" width="350px"/>
 
 
-## Detectron2 apps
 
-- [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
-
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
-  
-  
--  [Serve Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
-
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
-   
-
-## Integration into labeling tool
-
-- [Apply NN to images project ](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fproject-dataset) - app allows to play with different inference options and visualize predictions in real time.  Once you choose inference settings you can apply model to all images in your project to visually analyse predictions and perform automatic data pre-labeling.   
-   
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/project-dataset" src="https://i.imgur.com/M2Tp8lE.png" width="350px"/> 
-
-- [NN Image Labeling](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fannotation-tool) - integrate any deployd NN to Supervisely Image Labeling UI. Configure inference settings and model output classes. Press `Apply` button (or use hotkey) and detections with their confidences will immediately appear on the image. 
-   
-    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/annotation-tool" src="https://i.imgur.com/hYEucNt.png" width="350px"/>
-  
 
 # Contact & Questions & Suggestions
 
