@@ -15,11 +15,12 @@ and how-to videos.
 1. [About Supervisely](#-about-supervisely)
 2. [Prerequisites](#Prerequisites)
 3. [Apps Collection for Instance Segmentation](#-apps-collection-for-instance-segmentation)
+    - [Detectron2 apps](#detectron2-apps)
+    - [Integration into labeling tool](#integration-into-labeling-tool)
     - [Demo data and synthetic data](#demo-data-and-synthetic-data)
     - [Data Exploration](#data-exploration)
-    - [Data manipulation](#data-manipulation) - convert, merge, rasterize
-    - [UNet](#unet-apps)
-    - [Integration into labeling tool](#integration-into-labeling-tool)
+    - [Data manipulation](#data-manipulation)
+
 4. [Contact & Questions & Suggestions](#contact--questions--suggestions)
 
 # 🤖 About Supervisely
