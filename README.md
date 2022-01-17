@@ -95,8 +95,9 @@ classes: lemons and kiwis
 
 ### Export
 
-- [Export to COCO](https://ecosystem.supervise.ly/apps/export-to-coco)  
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-coco" src="https://imgur.com/OxqtYTS.png" width="350px"/>  
+- [Export to COCO](https://ecosystem.supervise.ly/apps/export-to-coco)
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-coco" src="https://imgur.com/OxqtYTS.png" width="350px"/>  
 
 - [Export as masks](https://ecosystem.supervise.ly/apps/export-as-masks)
 
@@ -125,11 +126,13 @@ classes: lemons and kiwis
 ## Detectron2 apps
 
 - [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
   
   
--  [Serve Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem  
-<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
+-  [Serve Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve/" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
    
 
 ## Integration into labeling tool
