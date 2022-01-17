@@ -1,0 +1,11 @@
+{
+  "name": "Instance Segmentation Collection",
+  "type": "collection",
+  "categories": [
+    "instance segmentation"
+  ],
+  "description": "Solve Instance Segmentation tasks",
+  "icon": "https://imgur.com/rkLWLqp.png",
+  "icon_background": "#FFFFFF",
+  "icon_cover": false
+}
