@@ -124,7 +124,7 @@ classes: lemons and kiwis
 
 ## Detectron2 apps
 
-- [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time
+- [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
   
   
