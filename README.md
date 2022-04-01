@@ -60,6 +60,18 @@ To learn more about how to use every app, please go to app's readme page (links 
 
 Collection consists of the following apps (find more apps in Ecosystem): 
 
+## MMDetection apps
+
+- [Train MMDetection](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/mmdetection/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/mmdetection/train" src="https://i.imgur.com/92PoYV7.png" width="200px" style='padding-bottom: 10px'/>
+  
+  
+-  [Serve MMDetection](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/mmdetection/serve) — deploy your model as Rest-API service and connect it with other apps from Ecosystem
+
+    <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/mmdetection/serve" src="https://i.imgur.com/R5nCKt2.png" width="200px" style='padding-bottom: 10px'/>
+   
+
 ## Detectron2 apps
 
 - [Train Detectron2](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
