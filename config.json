@@ -5,8 +5,8 @@
     "instance segmentation"
   ],
   "description": "Solve Instance Segmentation tasks",
-  "icon": "https://imgur.com/rkLWLqp.png",
+  "icon": "media/icon.png",
   "icon_background": "#FFFFFF",
   "icon_cover": false,
-  "poster": "https://i.imgur.com/X9NTc5X.png"
+  "poster": "media/poster.png"
 }
