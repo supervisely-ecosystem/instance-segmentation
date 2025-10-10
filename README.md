@@ -62,12 +62,12 @@ Collection consists of the following apps (find more apps in Ecosystem):
 
 ## Detectron2 apps
 
-- [Train Detectron2](../../../../supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
+- [Train Detectron2](../../../../../../supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
   
   
--  [Serve Detectron2](../../../../supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
+-  [Serve Detectron2](../../../../../../../supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
    
