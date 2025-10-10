@@ -62,23 +62,23 @@ Collection consists of the following apps (find more apps in Ecosystem):
 
 ## Detectron2 apps
 
-- [Train Detectron2](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
+- [Train Detectron2](../../../../supervisely-ecosystem/detectron2/supervisely/train) — training dashboard, customize hyperparameters and monitor metrics in real time  
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/train" src="https://imgur.com/Bl0TKNn.png" width="350px" style='padding-bottom: 10px'/>
   
   
--  [Serve Detectron2](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
+-  [Serve Detectron2](../../../../supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve) —   deploy your model as Rest-API service and connect it with other apps from Ecosystem
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/detectron2/supervisely/instance_segmentation/serve" src="https://imgur.com/If0VW5B.png" width="350px" style='padding-bottom: 10px'/>
    
 
 ## Integration into labeling tool
 
-- [Apply NN to images project ](https://ecosystem.supervisely.com/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fproject-dataset) - app allows to play with different inference options and visualize predictions in real time.  Once you choose inference settings you can apply model to all images in your project to visually analyse predictions and perform automatic data pre-labeling.   
+- [Apply NN to images project ](../../../../supervisely-ecosystem/supervisely-ecosystem%252Fnn-image-labeling%252Fproject-dataset) - app allows to play with different inference options and visualize predictions in real time.  Once you choose inference settings you can apply model to all images in your project to visually analyse predictions and perform automatic data pre-labeling.   
    
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/project-dataset" src="https://i.imgur.com/M2Tp8lE.png" width="350px"/> 
 
-- [NN Image Labeling](https://ecosystem.supervisely.com/apps/supervisely-ecosystem%252Fnn-image-labeling%252Fannotation-tool) - integrate any deployd NN to Supervisely Image Labeling UI. Configure inference settings and model output classes. Press `Apply` button (or use hotkey) and detections with their confidences will immediately appear on the image. 
+- [NN Image Labeling](../../../../supervisely-ecosystem/supervisely-ecosystem%252Fnn-image-labeling%252Fannotation-tool) - integrate any deployd NN to Supervisely Image Labeling UI. Configure inference settings and model output classes. Press `Apply` button (or use hotkey) and detections with their confidences will immediately appear on the image. 
    
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/annotation-tool" src="https://i.imgur.com/hYEucNt.png" width="350px"/>
   
@@ -95,22 +95,22 @@ classes: lemons and kiwis
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/lemons-test" src="https://i.imgur.com/DsO08qM.png" width="350px"/>
 
-- [Flying objects](https://ecosystem.supervisely.com/apps/flying-objects) - 
+- [Flying objects](../../../../supervisely-ecosystem/flying-objects) - 
   app generates synthetic images for segmentation / detection / instance segmentation tasks from labeled examples 
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/flying-objects" src="https://i.imgur.com/i5rCve6.png" width="350px"/>
 
 ## Data Exploration
 
-- [Classes stats for images](https://ecosystem.supervisely.com/apps/classes-stats-for-images) - classes stats and detailed per image stats 
+- [Classes stats for images](../../../../supervisely-ecosystem/classes-stats-for-images) - classes stats and detailed per image stats 
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/classes-stats-for-images" src="https://i.imgur.com/ltTtIKT.png" width="350px"/>
 
-- [Object size stats](https://ecosystem.supervisely.com/apps/object-size-stats) - classes stats and detailed per image stats 
+- [Object size stats](../../../../supervisely-ecosystem/object-size-stats) - classes stats and detailed per image stats 
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/object-size-stats" src="https://i.imgur.com/1wx1G8F.png" width="350px"/>
 
-- [Classes co-occurrence matrix](https://ecosystem.supervisely.com/apps/classes-co-occurrence-matrix) - discover edge cases and find “suspicious annotations” 
+- [Classes co-occurrence matrix](../../../../supervisely-ecosystem/classes-co-occurrence-matrix) - discover edge cases and find “suspicious annotations” 
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/classes-co-occurrence-matrix" src="https://i.imgur.com/O2O9J3k.png" width="350px"/>
 
@@ -119,26 +119,26 @@ classes: lemons and kiwis
 
 ### Export
 
-- [Export to COCO](https://ecosystem.supervisely.com/apps/export-to-coco)
+- [Export to COCO](../../../../supervisely-ecosystem/export-to-coco)
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-coco" src="https://imgur.com/OxqtYTS.png" width="350px"/>  
 
 ### Processing
 
-- [Convert class shape](https://ecosystem.supervisely.com/apps/convert-class-shape)
+- [Convert class shape](../../../../supervisely-ecosystem/convert-class-shape)
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/convert-class-shape" src="https://i.imgur.com/hFuVWOA.png" width="350px"/>
 
-- [Merge classes](https://ecosystem.supervisely.com/apps/merge-classes)
+- [Merge classes](../../../../supervisely-ecosystem/merge-classes)
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/merge-classes" src="https://i.imgur.com/S7GUdYv.png" width="350px"/>
 
-- [Rasterize objects on images](https://ecosystem.supervisely.com/apps/rasterize-objects-on-images)
+- [Rasterize objects on images](../../../../supervisely-ecosystem/rasterize-objects-on-images)
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/rasterize-objects-on-images" src="https://i.imgur.com/zoDWjP6.png" width="350px"/>
 
 
-- [ImgAug studio](https://ecosystem.supervisely.com/apps/imgaug-studio) - prepare and visualize custom augmentation pipeline for training, augs are applied on the fly during training
+- [ImgAug studio](../../../../supervisely-ecosystem/imgaug-studio) - prepare and visualize custom augmentation pipeline for training, augs are applied on the fly during training
 
     <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/imgaug-studio" src="https://i.imgur.com/l9kNWs9.png" width="350px"/>
 
